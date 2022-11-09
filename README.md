@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Rush"> &nbsp;&nbsp;&nbsp;&nbsp;
+
 - 🏢 I’m currently working at **MindMotion**
 - 🚀 I use daily:
   ![C/C++](https://img.shields.io/badge/-C/C++-orange?style=plastic&logo=C/C++)
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Rush"> &nbsp;&nbsp;&nbsp;&nbsp;
+
 
  <!-- 
 - 🔭 I’m currently working at
