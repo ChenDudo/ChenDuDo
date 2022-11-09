@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Rush"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=mayandev)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark) -->
