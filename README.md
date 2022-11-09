@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Rush"> &nbsp;&nbsp;&nbsp;&nbsp;
-
 - 🏢 I’m currently working at **MindMotion**
 - 🚀 I use daily:
   ![C/C++](https://img.shields.io/badge/-C/C++-orange?style=plastic&logo=C/C++)
@@ -37,5 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark) -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Rush"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
